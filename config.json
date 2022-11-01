@@ -1,0 +1,11 @@
+{
+  "grafana-access": [
+    {
+      "team": "JackLuo",
+      "users": [
+        "xxxxxx@gmail.com",
+        "aaaaaa@qq.com"
+      ]
+    }
+  ]
+}
